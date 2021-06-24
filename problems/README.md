@@ -1,0 +1,1 @@
+## Pasta destinada a solução de problemas propostos por seguidores 
