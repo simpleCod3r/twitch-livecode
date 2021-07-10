@@ -2,6 +2,8 @@
 
 Este repositório esta destinado a armazenar os códigos de métodos de ordenação:
 
+---
+
 - [x] Bubble
 - [x] Shaker
 - [x] Selection
@@ -9,4 +11,6 @@ Este repositório esta destinado a armazenar os códigos de métodos de ordenaç
 - [x] Shell
 - [x] Quick
 - [x] Heap
-- [ ] Merge
+- [x] Merge
+
+---
