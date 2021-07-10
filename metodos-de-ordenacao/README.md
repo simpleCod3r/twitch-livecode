@@ -7,6 +7,6 @@ Este repositório esta destinado a armazenar os códigos de métodos de ordenaç
 - [x] Selection
 - [x] Insertion
 - [x] Shell
-- [ ] Quick
+- [x] Quick
 - [ ] Heap
 - [ ] Merge
