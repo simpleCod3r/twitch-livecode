@@ -5,7 +5,7 @@ Este repositório esta destinado a armazenar os códigos de métodos de ordenaç
 - [x] Bubble
 - [x] Shaker
 - [x] Selection
-- [ ] Insertion
+- [x] Insertion
 - [ ] Shell
 - [ ] Quick
 - [ ] Heap
