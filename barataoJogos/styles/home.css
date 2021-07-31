@@ -1,0 +1,13 @@
+.logo{
+    font-family: 'Staatliches', cursive;
+    color: #000000;
+    text-align: center;
+}
+
+.navbar-brand.abs
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+}

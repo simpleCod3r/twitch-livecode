@@ -1,0 +1,1 @@
+Este site destina a listar as promoções mais atuais de jogos nas principais plataformas.
