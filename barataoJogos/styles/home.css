@@ -1,13 +1,57 @@
-.logo{
-    font-family: 'Staatliches', cursive;
-    color: #000000;
-    text-align: center;
+.logo {
+    display: flex;
+    align-items:center;
+
+    position: relative;
+    top:0;
+    left:50%;
+    transform: translate(-50%)
 }
 
-.navbar-brand.abs
-{
+.text{
+    font-family: 'Staatliches', cursive;
+    color: #000000;
+    text-align: right;
+    line-height: 0;
+}
+.text p{
+    margin: 0;
+    line-height:1;
+    font-size: 3rem;
+}
+
+.text p + p{
+    font-family: Teko, sans-serif;
+    font-size: 2rem;
+}
+
+
+/**** BOOTSTRAP NAVBAR ****/
+
+body .navbar {
+    padding: 0;
+}
+
+body .wrapper{
+    width: 100vw;
     position: absolute;
-    width: 100%;
-    left: 0;
-    text-align: center;
+    padding: 0;
+}
+
+body > .wrapper .navbar-brand{
+    margin: 0;
+    /* border: 2px solid black;     */
+}
+
+body > .wrapper img.navbar-brand{
+    /* background: purple; */
+    margin-left: 2rem;
+    width: 9rem;   
+    padding: 0;
+}
+
+/* LINKS DA NAVBAR */
+
+.nav-link{
+    font-size: 1.6rem;
 }
